@@ -1,2 +1,4 @@
 patch:
   __include: config_styles:/patch
+  style/inline_preedit: true #内嵌编码（僅支持TSF）
+  style/horizontal: true #横向显示
