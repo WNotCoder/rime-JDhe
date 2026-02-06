@@ -726,6 +726,7 @@ dict_grouped: false # 词库管理应用识别：标记该码表为分组模式
 按季	anji
 案件	anjm
 按键	anjm
+安监	anjm
 暗礁	anjn
 暗叫	anjn
 按揭	anjp
